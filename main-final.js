@@ -1,5 +1,5 @@
 // get all keys
-const keys = document.querySelectorAll(".key")
+/*const keys = document.querySelectorAll(".key")
 
 function playNote(event) {
   
@@ -57,4 +57,4 @@ function registerEvents() {
   window.addEventListener("keydown", playNote)
 }
 
-window.addEventListener("load", registerEvents)
+window.addEventListener("load", registerEvents)*/

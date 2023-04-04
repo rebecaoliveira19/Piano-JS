@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        
+        {
+            "type": "chrome",
+            "name": "https://github.com/rebecaoliveira19/Piano-JS.git",
+            "request": "launch",
+            "url": "https://github.com/rebecaoliveira19/Piano-JS.git"
+        }
+    ]
+}
